@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ShineText.qml</file>
+    </qresource>
+</RCC>
