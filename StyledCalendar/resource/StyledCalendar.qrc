@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/StyledCalendar">
+        <file>icon/icon-left.png</file>
+        <file>icon/icon-right.png</file>
+    </qresource>
+</RCC>
