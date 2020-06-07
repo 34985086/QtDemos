@@ -1,2 +1,2 @@
 # QtDemos
-This repository is for some demos of qt written by myself.
+This repository helps me to store my qt examples.
