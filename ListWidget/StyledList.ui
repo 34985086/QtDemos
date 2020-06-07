@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StyledList</class>
+ <widget class="QWidget" name="StyledList">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QListWidget" name="list">
+     <property name="styleSheet">
+      <string notr="true">QListWidget{
+	border:none;
+	background-color:rgb(255,255,255);
+	color:black;
+}
+QListWidget:item{
+	background-color:transparent;
+	border:none;
+	color:black;
+}
+QListWidget:item:!selected {
+	background-color:transparent;
+	border:none;
+	color:black;
+}
+
+QListWidget:item:selected {
+	background-color:transparent;
+	border:none;
+	color:black;
+}
+</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
