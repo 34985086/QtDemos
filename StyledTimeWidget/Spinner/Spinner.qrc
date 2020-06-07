@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/spinner">
+        <file>Spinner.qml</file>
+    </qresource>
+</RCC>
